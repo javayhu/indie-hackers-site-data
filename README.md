@@ -5,6 +5,8 @@
 
 [Indie Hackers Site](https://www.indiehackers.site) is not open source for now, but the data of this site is open sourced now, so you can build your own website for indie hackers.
 
+![screenshot-indie-hackers-site.png](screenshot-indie-hackers-site.png)
+
 👉 **All Indie Hackers Tools data is saved in file data.csv.**
 
 Files with name like `data_{timestamp}.csv` means data backup files.
@@ -26,4 +28,4 @@ In order to show the Indie Hackers Site data, I made a notion website named [Saa
 
 If you are interested in Indie Hacking, feel free to follow me on [Twitter](https://x.com/javayhu), I'm learning and build in public on [Twitter](https://x.com/javayhu).
 
-![screenshot](screenshot.png)
+![screenshot-saas-101.png](screenshot-saas-101.png)
