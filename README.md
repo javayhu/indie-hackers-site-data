@@ -11,7 +11,8 @@ Indie Hackers Site code is not open source for now, but the data of this site is
 
 **All Indie Hackers Tools data is saved in file data_{timestamp}.csv.**
 
-data format:  
+## Data Format
+
 **Name**: the name of tool, for example: Vercel  
 **Group**: the group of tool, for example: Framework  
 **Category**: the category of tool, for example: Frontend Framework / Backend Framework  
