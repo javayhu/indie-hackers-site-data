@@ -24,6 +24,6 @@ Indie Hackers Site code is not open source for now, but the data of this site is
 
 ## What is SaaS 101?
 
-In order to show the Indie Hackers Site data, I made a notion website [SaaS 101](https://saas101.notion.site/SaaS-101-d2ae31346a834beea6f458006fc8969e), where you can view and search all tools freely.
+In order to show the Indie Hackers Site data, I made a notion website [SaaS 101](https://saas101.notion.site/SaaS-101-d2ae31346a834beea6f458006fc8969e?pvs=4), where you can view and search all tools freely.
 
 ![screenshot](screenshot.png)
