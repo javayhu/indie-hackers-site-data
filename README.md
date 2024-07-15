@@ -22,7 +22,7 @@ Files with name like `data_{timestamp}.csv` means data backup files.
 
 ## 🌟 What is SaaS 101?
 
-In order to show the Indie Hackers Site data, I made a notion website named [SaaS 101](https://saas101.notion.site/SaaS-101-d2ae31346a834beea6f458006fc8969e?pvs=4), where you can view and search all these tools freely.
+In order to show the Indie Hackers Site data, I made a notion website named [SaaS 101](https://link.indiehackers.site/saas101), where you can view and search all these tools freely.
 
 If you are interested in Indie Hacking, feel free to follow me on [Twitter](https://x.com/javayhu), I'm learning and build in public on [Twitter](https://x.com/javayhu).
 
